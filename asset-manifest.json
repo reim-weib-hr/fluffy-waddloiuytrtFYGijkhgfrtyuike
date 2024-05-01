@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluffy-waddloiuytrtFYGijkhgfrtyuike/static/css/main.cef092c0.css",
+    "main.js": "/fluffy-waddloiuytrtFYGijkhgfrtyuike/static/js/main.c703b0b6.js",
+    "static/js/453.2080c19e.chunk.js": "/fluffy-waddloiuytrtFYGijkhgfrtyuike/static/js/453.2080c19e.chunk.js",
+    "index.html": "/fluffy-waddloiuytrtFYGijkhgfrtyuike/index.html",
+    "main.cef092c0.css.map": "/fluffy-waddloiuytrtFYGijkhgfrtyuike/static/css/main.cef092c0.css.map",
+    "main.c703b0b6.js.map": "/fluffy-waddloiuytrtFYGijkhgfrtyuike/static/js/main.c703b0b6.js.map",
+    "453.2080c19e.chunk.js.map": "/fluffy-waddloiuytrtFYGijkhgfrtyuike/static/js/453.2080c19e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef092c0.css",
+    "static/js/main.c703b0b6.js"
+  ]
+}
